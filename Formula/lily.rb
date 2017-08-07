@@ -1,8 +1,8 @@
 class Lily < Formula
   desc "Interpreted language with a focus on expressiveness and type safety"
-  homepage "https://jesserayadkins.github.io/lily/"
-  url "https://github.com/jesserayadkins/lily/archive/v0.16.tar.gz"
-  sha256 "eabe9624154bc2080e2898dec0556ba2e89daf549f81b81cb66d4ffd277f4553"
+  homepage "https://fascinatedbox.github.io/lily-site/"
+  url "https://github.com/FascinatedBox/lily/archive/v1.1.tar.gz"
+  sha256 "8d243707c8ee796d492644235134da0edb6b29231f06c568824e1e424e74b64f"
 
   depends_on "cmake" => :build
 
