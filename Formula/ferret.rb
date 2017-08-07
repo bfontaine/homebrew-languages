@@ -1,8 +1,8 @@
 class Ferret < Formula
   desc "Clojure implementation for real time embedded control systems"
   homepage "http://ferret-lang.org/"
-  url "https://github.com/nakkaya/ferret/archive/0.2.6.tar.gz"
-  sha256 "d72e9672c755eafec899b7d241447e73e443add0be10b6fe0513d34be546adf3"
+  url "https://github.com/nakkaya/ferret/archive/0.2.8.tar.gz"
+  sha256 "bcf7011962a7acb7001c0038e0953fba5a95980b79308c7433a7032016aa1b9e"
 
   depends_on "emacs" => :build
   depends_on "leiningen" => :build
